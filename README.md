@@ -1,6 +1,7 @@
+
+![I am MERN Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQErtzpJn2lwrg/profile-displaybackgroundimage-shrink_350_1400/0/1670445700188?e=1675900800&v=beta&t=CDvRjH_Jkk4raQW5D3d_2isObPgSUyVbUA8KwaE42-c)
 ### Hi there 👋, I am Abdur Nur Tushar Irfan
 #### I am MERN Stack Web Developer
-![I am MERN Stack Web Developer](https://media-exp1.licdn.com/dms/image/D5616AQErtzpJn2lwrg/profile-displaybackgroundimage-shrink_350_1400/0/1670445700188?e=1675900800&v=beta&t=CDvRjH_Jkk4raQW5D3d_2isObPgSUyVbUA8KwaE42-c)
 
 I have done some MERN projects. If I contribute in an Organization. where I can utilize
 my knowledge, skills and abilities to add value to that organization and explore my
